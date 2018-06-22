@@ -15,11 +15,45 @@ gen
 .metadata
 
 # Package Files #
-*.jar
-*.war
-*.ear
+#*.jar
+#*.war
+#*.ear
 
 *.class
 
 # ignore Maven generated target folders
 target
+cart-web/src/test/
+cart/cart-interface/src/main/resources/
+cart/cart-interface/src/test/
+cart/cart-service/src/test/
+cart/src/
+common/src/main/resources/
+common/src/test/
+content/content-interface/src/main/resources/
+content/content-interface/src/test/
+content/src/
+manager/manager-dao/src/main/resources/
+manager/manager-dao/src/test/
+manager/manager-interface/src/main/resources/
+manager/manager-interface/src/test/
+manager/manager-pojo/src/main/resources/
+manager/manager-pojo/src/test/
+manager/src/
+manager/tomcat.8082/
+order-web/src/test/
+order/order-interface/src/main/resources/
+order/order-interface/src/test/
+order/order-service/src/test/
+order/src/
+portal-web/src/test/
+search-web/src/test/
+search/search-interface/src/main/resources/
+search/search-interface/src/test/
+search/src/
+src/
+sso-web/src/test/
+sso/src/
+sso/sso-interface/src/main/resources/
+sso/sso-interface/src/test/
+sso/sso-service/src/test/
