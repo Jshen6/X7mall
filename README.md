@@ -1,5 +1,7 @@
 # x7mall
 项目描述：
+
+
 x7mall是一个基于SOA架构，SSM整合框架的综合性B2C平台，会员可以在商城浏览商品、下订单，以及参加各种活动。
 为了提高系统的性能使用redis做系统缓存，并使用redis实现session共享。为了保证redis的性能使用redis的集群。搜索功能使用solrCloud做搜索引擎。
 开发环境：JDK+IDEA+Maven+Linux+EasyUI
