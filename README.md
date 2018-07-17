@@ -1,7 +1,7 @@
 # x7mall
 项目描述：
 
-x7mall是一个基于SOA架构，SSM整合框架的综合性B2C平台，会员可以在商城浏览商品、下订单，以及参加各种活动。
+x7mall是一个基于SOA架构，SSM整合框架的综合性B2C平台，会员可以在平台浏览商品、下订单，以及参加各种活动。
 
 软件架构：Spring+Springmvc+MyBatis+Redis+Solr+MySQL
 
